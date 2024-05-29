@@ -54,7 +54,7 @@ export default function Contact() {
     </div>
     <div class="credits">
       inspired by
-      <a class="credits-link" href="" target="_blank">
+      <a class="credits-link" href="/" target="_blank">
         <svg class="dribbble" viewBox="0 0 200 200">
           <g stroke="#ffffff" fill="none">
             <circle cx="100" cy="100" r="90" stroke-width="20"></circle>

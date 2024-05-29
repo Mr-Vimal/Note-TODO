@@ -35,7 +35,7 @@ export default function Login() {
                 <input type="password" />
                 <label for="password">Password</label>
               </div>
-              <p><a href="#">Forgot password?</a></p>
+              <p><a href="/">Forgot password?</a></p>
               <button>Login</button>
             </form>
             <div className="divider">

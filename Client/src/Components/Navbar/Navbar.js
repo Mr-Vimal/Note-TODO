@@ -5,7 +5,7 @@ function Navbar() {
         <section className="body-container">
         <nav className="navbar" id="navbar1">
           <div className="navbar-brand">
-            <a href="#" className="a-link">
+            <a href="/" className="a-link">
               <h1>Vimal Brand</h1>
             </a>
           </div>
